@@ -82,7 +82,7 @@ The skill can be invoked and tested on an Echo device as well.
 
 Now you can use any Echo device logged in to the same developer account to test the skill: 
 
-​     *“Alexa, open hello world.”*
+​     *“Alexa, open greeter.”*
 
 
 
